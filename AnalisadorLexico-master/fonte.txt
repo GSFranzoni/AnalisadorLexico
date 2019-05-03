@@ -1,0 +1,3 @@
+A1 = A2
+B = C3 + ~ A2
+C3 {este é falso} = 0 
